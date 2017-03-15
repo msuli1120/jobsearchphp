@@ -1,0 +1,17 @@
+.output {
+  background-color: lightgreen;
+  width: 30%;
+}
+
+li {
+  color: white;
+}
+
+.outputOne {
+  background-color: blue;
+  width: 30%;
+}
+
+p {
+  font-size: 20px;
+}
